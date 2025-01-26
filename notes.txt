@@ -1,0 +1,5 @@
+HTML - I have enjoyed learning HTML and it has actually been more enjoyable this time because I briefly learned in IS 201. It is easier going over the basics this time. I like learning all the different things you can add to a website to make it look like a real website. 
+
+CSS - CSS is the same thing for me. I have enjoyed learning it this time around. In IS 201 we were given a lot of the CSS for the website we made and I didn't really understand how it worked but I think I am understanding more this time. There are so many different parts you can add and so its hard to learn it all but I think you just learn as you practice and use it a lot.
+
+Git - Git has been a little harder for me since I'm used to cloning a git repository from github and then using it from there. So learning the git commands in the terminal was very different for me. I can see how they all connect though.
